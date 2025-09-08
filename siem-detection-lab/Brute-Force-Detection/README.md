@@ -18,9 +18,11 @@ Demonstrate how to detect brute force login attempts using Splunk by ingesting W
 See [`spl_query.md`](./spl_query.md).
 
 ## Screenshots
-- [Search Results](./screenshots/search_results.png)
-- [Alert Setup](./screenshots/alert_setup.png)
-- [Dashboard Visualization](./screenshots/dashboard.png)
+![Search Results](./search_results.png)
+![Alert Setup](./alert_setup.png)
+![Dashboard](./dashboard.png)
+
+
 
 ## Outcome
 - Detected multiple failed login attempts (4625) against a test account.
