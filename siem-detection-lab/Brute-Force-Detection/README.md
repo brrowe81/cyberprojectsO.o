@@ -28,4 +28,5 @@ See [`spl_query.md`](./spl_query.md).
 ## Outcome
 - Detected multiple failed login attempts (4625) against a test account.
 - Captured lockout event (4740) after threshold exceeded.
+- Detected succesful login attemps (4624).
 - Created Splunk alert and dashboard for SOC-style monitoring.
