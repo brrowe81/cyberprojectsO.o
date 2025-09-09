@@ -18,7 +18,7 @@ Demonstrate how to detect brute force login attempts using Splunk by ingesting W
 See [`spl_query.md`](./spl_query.md).
 
 ## Screenshots
-![Search Results](./search_result.png)
+![Search Results](./search_result.png)(./lockout_result.png)
 ![Alert Setup](./alert_setup.png)
 ![Dashboard](./dashboard.png)
 
