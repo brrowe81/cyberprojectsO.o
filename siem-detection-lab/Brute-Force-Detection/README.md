@@ -20,7 +20,7 @@ See [`spl_query.md`](./spl_query.md).
 ## Screenshots
 ![Search Results](./search_result.png)
 ![Search Results](./lockout_result.png)
-![Alert Setup](./alert_setup.png)
+![Alert Setup](./ReportAlert.png)
 ![Dashboard](./dashboard.png)
 
 
