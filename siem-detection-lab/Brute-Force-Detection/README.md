@@ -21,7 +21,7 @@ See [`spl_query.md`](./spl_query.md).
 ![Search Results](./search_result.png)
 ![Search Results](./lockout_result.png)
 ![Alert Setup](./ReportAlert.png)
-![Dashboard](./dashboard.png)
+![Dashboard](./dashboard_result.png)
 
 
 
