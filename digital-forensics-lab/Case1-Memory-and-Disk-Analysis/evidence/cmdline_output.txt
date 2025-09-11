@@ -1,1 +1,157 @@
 
+Volatility 3 Framework 2.27.0
+
+PID	Process	Args
+
+4	System	-
+72	Registry	-
+308	smss.exe	\SystemRoot\System32\smss.exe
+416	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+484	wininit.exe	wininit.exe
+492	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+552	winlogon.exe	winlogon.exe
+576	services.exe	C:\Windows\system32\services.exe
+588	WerFault.exe	-
+596	lsass.exe	C:\Windows\system32\lsass.exe
+696	fontdrvhost.ex	-
+704	fontdrvhost.ex	-
+724	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch -p
+812	svchost.exe	C:\Windows\system32\svchost.exe -k RPCSS -p
+864	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch -p -s LSM
+928	dwm.exe	"dwm.exe"
+1000	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p
+380	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s DispBrokerDesktopSvc
+376	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService
+420	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s TimeBrokerSvc
+680	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s lmhosts
+1072	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s EventLog
+1096	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s Schedule
+1136	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s nsi
+1148	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s ProfSvc
+1184	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s Dhcp
+1224	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s UserManager
+1272	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p -s NlaSvc
+1368	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s EventSystem
+1376	svchost.exe	C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s SysMain
+1396	svchost.exe	C:\Windows\System32\svchost.exe -k netsvcs -p -s Themes
+1456	MemCompression	-
+1468	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s SENS
+1512	svchost.exe	C:\Windows\System32\svchost.exe -k LocalService -p -s netprofm
+1520	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s AudioEndpointBuilder
+1540	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s FontCache
+1616	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+1720	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkService -p -s Dnscache
+1728	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+1744	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+1788	svchost.exe	C:\Windows\system32\svchost.exe -k appmodel -p -s StateRepository
+1820	svchost.exe	C:\Windows\System32\svchost.exe -k netsvcs -p -s ShellHWDetection
+1964	spoolsv.exe	C:\Windows\System32\spoolsv.exe
+2000	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p
+2012	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p -s LanmanWorkstation
+2104	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkService -p -s CryptSvc
+2112	svchost.exe	C:\Windows\System32\svchost.exe -k utcsvc -p
+2120	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNoNetwork -p -s DPS
+2148	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s Winmgmt
+2156	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s LanmanServer
+2184	MpDefenderCore	"C:\ProgramData\Microsoft\Windows Defender\platform\4.18.25070.5-0\MpDefenderCoreService.exe"
+2224	splunkd.exe	"C:\Program Files\SplunkUniversalForwarder\bin\splunkd.exe" service
+2232	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TrkWks
+2240	MsMpEng.exe	"C:\ProgramData\Microsoft\Windows Defender\platform\4.18.25070.5-0\MsMpEng.exe"
+2260	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s WpnService
+2380	svchost.exe	C:\Windows\System32\svchost.exe -k NetSvcs -p -s iphlpsvc
+2396	svchost.exe	C:\Windows\System32\svchost.exe -k LocalService -p -s WdiServiceHost
+2684	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+2792	SearchIndexer.	C:\Windows\system32\SearchIndexer.exe /Embedding
+2976	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{3EB3C877-1F16-487C-9050-104DBCD66683}
+3060	AggregatorHost	AggregatorHost.exe
+2308	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -s RmSvc
+3572	NisSrv.exe	-
+3808	svchost.exe	C:\Windows\System32\svchost.exe -k LocalService -p -s LicenseManager
+3888	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s TokenBroker
+3304	splunk-perfmon	-
+3444	splunk-winevtl	"C:\Program Files\SplunkUniversalForwarder\bin\splunk-winevtlog.exe"
+3420	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s CDPSvc
+1692	svchost.exe	-
+3944	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p -s DoSvc
+1016	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+1500	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s UsoSvc
+1972	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p -s wscsvc
+912	svchost.exe	C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s CDPUserSvc
+4816	sihost.exe	sihost.exe
+4836	svchost.exe	C:\Windows\system32\svchost.exe -k UnistackSvcGroup -s WpnUserService
+4396	MicrosoftEdgeU	"C:\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe" /c
+4340	taskhostw.exe	taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+2424	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s TabletInputService
+2272	ctfmon.exe	"ctfmon.exe"
+1852	userinit.exe	-
+1352	explorer.exe	C:\Windows\Explorer.EXE
+5032	svchost.exe	C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p -s cbdhsvc
+4848	StartMenuExper	"C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+4412	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+4516	svchost.exe	C:\Windows\System32\svchost.exe -k UnistackSvcGroup
+4624	SearchApp.exe	"C:\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca
+2164	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+5676	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s lfsvc
+5764	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+5964	SecurityHealth	"C:\Windows\System32\SecurityHealthSystray.exe" 
+5992	SecurityHealth	C:\Windows\system32\SecurityHealthService.exe
+6088	OneDrive.exe	"C:\Users\labuser\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+5608	msedge.exe	-
+6528	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s Appinfo
+6776	SystemSettings	"C:\Windows\ImmersiveControlPanel\SystemSettings.exe" -ServerName:microsoft.windows.immersivecontrolpanel
+6784	ApplicationFra	C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+7004	UserOOBEBroker	C:\Windows\System32\oobe\UserOOBEBroker.exe -Embedding
+4504	TextInputHost.	"C:\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TextInputHost.exe" -ServerName:InputApp.AppXk0k6mrh4r2q0ct33a9wgbez0x7v9cz5y.mca
+2560	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}
+4280	svchost.exe	C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted -p -s PcaSvc
+1316	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceAndNoImpersonation -p -s SSDPSRV
+952	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s WdiSystemHost
+5012	SearchApp.exe	-
+3688	msedgewebview2	-
+6016	msedgewebview2	-
+6636	msedgewebview2	-
+2428	msedgewebview2	-
+5008	msedgewebview2	-
+2008	msedgewebview2	-
+5796	ShellExperienc	-
+4544	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+4600	FileCoAuth.exe	"C:\Users\labuser\AppData\Local\Microsoft\OneDrive\25.155.0811.0002\FileCoAuth.exe" -Embedding
+1984	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p -s BthAvctpSvc
+2808	svchost.exe	C:\Windows\system32\svchost.exe -k WbioSvcGroup -s WbioSrvc
+2656	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s AppMgmt
+6540	svchost.exe	C:\Windows\System32\svchost.exe -k netsvcs -p
+820	powershell.exe	"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" 
+1408	conhost.exe	\??\C:\Windows\system32\conhost.exe 0x4
+3144	powershell.exe	-
+5072	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -s W32Time
+6100	MoUsoCoreWorke	C:\Windows\System32\mousocoreworker.exe -Embedding
+5176	OneDrive.Sync.	"C:\Users\labuser\AppData\Local\Microsoft\OneDrive\25.155.0811.0002\OneDrive.Sync.Service.exe" /silentConfig
+5360	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s DsSvc
+8520	taskhostw.exe	taskhostw.exe
+9684	MRCv120.exe	"C:\Users\labuser\Downloads\MRCv120.exe" 
+4740	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window
+3868	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=crashpad-handler "--user-data-dir=C:\Users\labuser\AppData\Local\Microsoft\Edge\User Data" /prefetch:4 --monitor-self-annotation=ptype=crashpad-handler "--database=C:\Users\labuser\AppData\Local\Microsoft\Edge\User Data\Crashpad" --annotation=IsOfficialBuild=1 --annotation=channel= --annotation=chromium-version=140.0.7339.81 "--annotation=exe=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --annotation=plat=Win64 --annotation=prod=Edge --annotation=ver=140.0.3485.54 --initial-client-data=0x268,0x26c,0x270,0x264,0x310,0x7ffb06672200,0x7ffb0667220c,0x7ffb06672218
+6908	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --no-pre-read-main-dll --startup-read-main-dll --metrics-shmem-handle=1784,i,9685578268211539175,11056651185831010873,524288 --field-trial-handle=2500,i,16951798713525873104,3870761942348450823,262144 --variations-seed-version --mojo-platform-channel-handle=2528 /prefetch:3
+9168	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=gpu-process --no-pre-read-main-dll --gpu-preferences=SAAAAAAAAADgAAAIAAAAAAAAAAAAAGAAAQAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --startup-read-main-dll --metrics-shmem-handle=1656,i,5902274287910361626,15578507554446390884,262144 --field-trial-handle=2500,i,16951798713525873104,3870761942348450823,262144 --variations-seed-version --mojo-platform-channel-handle=2496 /prefetch:2
+6744	msedge.exe	"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en-US --service-sandbox-type=service --no-pre-read-main-dll --startup-read-main-dll --metrics-shmem-handle=2208,i,14339614211270368093,2897491119630635864,524288 --field-trial-handle=2500,i,16951798713525873104,3870761942348450823,262144 --variations-seed-version --mojo-platform-channel-handle=3440 /prefetch:8
+8852	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s wuauserv
+10224	wuauclt.exe	"C:\Windows\system32\wuauclt.exe" /UpdateDeploymentProvider UpdateDeploymentProvider.dll /ClassId fa5046a5-7d8a-4ea5-8433-4b5e47ab620c /RunHandlerComServer
+6416	TrustedInstall	C:\Windows\servicing\TrustedInstaller.exe
+7520	TiWorker.exe	C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.6271_none_7e26b07e7c7a5b82\TiWorker.exe -Embedding
+7856	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p -s WinHttpAutoProxySvc
+9976	svchost.exe	C:\Windows\system32\svchost.exe -k wsappx -p -s AppXSvc
+5316	backgroundTask	"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:Global.DesktopSpotlight.AppXz2j21w56bgxkgsjhtn7zkjsepq96erz2.mca
+8824	backgroundTask	"C:\Windows\system32\backgroundTaskHost.exe" -ServerName:App.AppXmtcan0h2tfbfy7k9kn8hbxb6dmzz1zh0.mca
+5828	backgroundTask	-
+9232	taskhostw.exe	taskhostw.exe
+9360	svchost.exe	C:\Windows\system32\svchost.exe -k appmodel -p -s camsvc
+4824	HxTsr.exe	"C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_16005.14326.22342.0_x64__8wekyb3d8bbwe\HxTsr.exe" -ServerName:Hx.IPC.Server
+10024	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+7348	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+7060	svchost.exe	C:\Windows\System32\svchost.exe -k wsappx -p -s ClipSVC
+3708	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc
+1080	RuntimeBroker.	-
+9940	RuntimeBroker.	-
+9700	RuntimeBroker.	-
+7412	svchost.exe	-
+9308	svchost.exe	-
