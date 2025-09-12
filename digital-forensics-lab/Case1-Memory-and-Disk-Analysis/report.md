@@ -28,12 +28,12 @@
 ### Suspicious Executable
 - Found in: `C:\Users\Brandon\Downloads\suspicious.exe`  
 - Screenshot:  
-  ![Suspicious EXE](./images/suspicious_exe.png)
+  ![Suspicious EXE](./images/exefile.png)
 
 ### Browser History
 - Shows download from: `http://malicious.test/suspicious.exe`  
 - Screenshot:  
-  ![Browser History](./images/browser_history.png)
+  ![Browser History](./images/webhistory.png)
 
 ---
 
