@@ -33,7 +33,7 @@
 ### Browser History
 - Shows download from: `http://malicious.test/suspicious.exe`  
 - Screenshot:  
-  ![webhistory](./images/webhistory.png)
+  ![webhistory](./evidence/images/webhistory.png)
 
 ---
 
